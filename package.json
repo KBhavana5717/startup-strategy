@@ -10,7 +10,7 @@
     "preview": "vite preview"
 
   },
-  "Scripts": {
+  "scripts": {
   "build": "next build"
 },
   "dependencies": {
